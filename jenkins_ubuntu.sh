@@ -14,4 +14,4 @@ sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
   
 echo "4. updating apt and Installing Jenkins.............."  
 sudo apt-get update
-sudo apt-get install jenkins
+sudo apt-get install jenkins
