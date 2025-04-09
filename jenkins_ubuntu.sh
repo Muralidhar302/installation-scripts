@@ -17,4 +17,4 @@ echo "4. updating apt.............."
 sudo apt-get update
 
 echo "5. Installing Jenkins.............."
-sudo apt-get install -y jenkins
+sudo apt-get install jenkins
